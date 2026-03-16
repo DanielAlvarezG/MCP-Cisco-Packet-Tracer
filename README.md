@@ -1,4 +1,4 @@
-# 🌐 Red con 15 Routers, Router on a Stick, VLSM y OSPF en Cisco Packet Tracer
+# "Guía para la instalación y configuración automatizada de MCP y Cisco Packet Tracer."
 
 > Guía completa y gratuita para replicar una topología de red empresarial con 16 subredes, 15 switches, Router on a Stick con VLANs, y enrutamiento dinámico OSPF usando VLSM sobre el espacio `192.168.168.0/20`.
 
