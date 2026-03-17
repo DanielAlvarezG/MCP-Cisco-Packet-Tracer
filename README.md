@@ -661,4 +661,4 @@ Este proyecto es de libre uso educativo. Puedes copiarlo, modificarlo y distribu
 
 ---
 
-*Creado con ❤️ para la comunidad de networking hispana*
+
